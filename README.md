@@ -44,7 +44,6 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
 
 <br/>
-<br/>
 
 ## 🌎 Criadores do projeto:
 <p>
